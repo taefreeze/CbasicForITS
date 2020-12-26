@@ -1,0 +1,16 @@
+C:\Users\potae\Desktop\CBasic\bin\Debug\net5.0\CBasic.exe
+C:\Users\potae\Desktop\CBasic\bin\Debug\net5.0\CBasic.deps.json
+C:\Users\potae\Desktop\CBasic\bin\Debug\net5.0\CBasic.runtimeconfig.json
+C:\Users\potae\Desktop\CBasic\bin\Debug\net5.0\CBasic.runtimeconfig.dev.json
+C:\Users\potae\Desktop\CBasic\bin\Debug\net5.0\CBasic.dll
+C:\Users\potae\Desktop\CBasic\bin\Debug\net5.0\ref\CBasic.dll
+C:\Users\potae\Desktop\CBasic\bin\Debug\net5.0\CBasic.pdb
+C:\Users\potae\Desktop\CBasic\obj\Debug\net5.0\CBasic.csprojAssemblyReference.cache
+C:\Users\potae\Desktop\CBasic\obj\Debug\net5.0\CBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\potae\Desktop\CBasic\obj\Debug\net5.0\CBasic.AssemblyInfoInputs.cache
+C:\Users\potae\Desktop\CBasic\obj\Debug\net5.0\CBasic.AssemblyInfo.cs
+C:\Users\potae\Desktop\CBasic\obj\Debug\net5.0\CBasic.csproj.CoreCompileInputs.cache
+C:\Users\potae\Desktop\CBasic\obj\Debug\net5.0\CBasic.dll
+C:\Users\potae\Desktop\CBasic\obj\Debug\net5.0\ref\CBasic.dll
+C:\Users\potae\Desktop\CBasic\obj\Debug\net5.0\CBasic.pdb
+C:\Users\potae\Desktop\CBasic\obj\Debug\net5.0\CBasic.genruntimeconfig.cache
