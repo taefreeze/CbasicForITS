@@ -43,6 +43,7 @@ namespace CBasic
             int a,b,c,d,e;
             Console.WriteLine("Enter number a : ");
             a = int.Parse(Console.ReadLine());
+
             Console.WriteLine("Enter number b : ");
             b = int.Parse(Console.ReadLine());
 
@@ -93,6 +94,43 @@ namespace CBasic
                 {
                     Console.WriteLine("Your grade is F");
                 }
+
+            //switch
+            // switch (result)
+            // {
+            //     case > 100:
+            //         Console.WriteLine("Error");
+            //         Console.ReadLine();
+            //         break;
+            //     case >= 80:
+            //         Console.WriteLine("Your grade is A");
+            //         Console.ReadLine();
+            //         break;
+            //     case >= 75:
+            //         Console.WriteLine("Your grade is B+");
+            //         Console.ReadLine();
+            //         break;
+            //     case >= 70:
+            //         Console.WriteLine("Your grade is B");
+            //         Console.ReadLine();
+            //         break;
+            //     case >= 65:
+            //         Console.WriteLine("Your grade is C+");
+            //         Console.ReadLine();
+            //         break;
+            //     case >= 60:
+            //         Console.WriteLine("Your grade is C");
+            //         Console.ReadLine();
+            //         break;
+            //     case >= 55:
+            //         Console.WriteLine("Your grade is D+");
+            //         Console.ReadLine();
+            //         break;
+            //     case >= 50:
+            //         Console.WriteLine("Your grade is D");
+            //         Console.ReadLine();
+            //         break;
+            }
         }
     }
 }
